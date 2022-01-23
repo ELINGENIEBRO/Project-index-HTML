@@ -1,5 +1,3 @@
-# Project-index-HTML
-Create a new page entraiment in GOit
 body {
 background-color: #f5f7fa;
   padding: 40px;
